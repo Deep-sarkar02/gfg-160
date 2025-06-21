@@ -1,0 +1,44 @@
+Given the head of a linked list, the task is to reverse this list and return the reversed head.
+
+Examples:
+
+Input: head: 1 -> 2 -> 3 -> 4 -> NULL
+Output: head: 4 -> 3 -> 2 -> 1 -> NULL
+Explanation:
+
+Input: head: 2 -> 7 -> 10 -> 9 -> 8 -> NULL
+Output: head: 8 -> 9 -> 10 -> 7 -> 2 -> NULL
+Explanation:
+
+Input: head: 2 -> NULL
+Output: 2 -> NULL
+Explanation:
+
+Constraints:
+1 <= number of nodes, data of nodes <= 105
+
+
+class Solution {
+    Node reverseList(Node head) {
+        // code here
+        // We will need 3 pointer curr , next and prev
+        Node curr = head;
+        Node prev = null;
+        Node next = null;
+        while(curr != null) // loop will run
+        {
+            // initialise the next
+            next = curr.next;
+            // now curr will point the prev
+            curr.next = prev;
+            // now prev will point the cur
+            prev = curr;
+            // and curr will point the next
+            curr = next;
+        }
+        // now alast  the prev will be returned
+        return prev;
+        
+    }
+}
+
