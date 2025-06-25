@@ -1,4 +1,4 @@
-readme_content = """\
+
 # 🚀 GeeksforGeeks 160 Days Coding Challenge
 
 Welcome to my GitHub repository for the **GeeksforGeeks 160 Days Coding Challenge**!  
