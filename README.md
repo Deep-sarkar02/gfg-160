@@ -6,7 +6,7 @@ This challenge is designed to strengthen data structures and algorithms (DSA) th
 
 ---
 
-## 📌 About the Challenge
+## 📌 About the Challeng
 
 - 📅 **Duration:** 160 Days
 - 🎯 **Goal:** Solve at least 1 DSA problem every day
