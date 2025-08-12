@@ -10,8 +10,8 @@ The input is a valid arithmetic expression in Reverse Polish Notation.
 The result of the expression and all intermediate calculations will fit in a 32-bit signed integer.
 Examples:
 
-Input: arr = ["2", "3", "1", "*", "+", "9", "-"]
-Output: -4
+Input:- arr = ["2", "3", "1", "*", "+", "9", "-"]
+Output:- -4
 Explanation: If the expression is converted into an infix expression, it will be 2 + (3 * 1) – 9 = 5 – 9 = -4.
 Input: arr = ["100", "200", "+", "2", "/", "5", "*", "7", "+"]
 Output: 757
