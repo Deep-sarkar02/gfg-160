@@ -6,7 +6,7 @@ peek() - Return the top element from the stack. If the stack is empty, return -1
 getMin() – Retrieve the minimum element from the stack in O(1) time. If the stack is empty, return -1.
 Each query can be one of the following:
 
-1 x : Push x onto the stack.
+1 x : Push x onto the stack
 2 : Pop the top element from the stack.
 3: Return the top element from the stack. If the stack is empty, return -1.
 4: Return the minimum element from the stack.
