@@ -11,7 +11,7 @@ This challenge is designed to strengthen data structures and algorithms (DSA) th
 - 📅 **Duration:** 160 Days
 - 🎯 **Goal:** Solve at least 1 DSA problem every day
 - 📚 **Platform:** [GeeksforGeeks](https://practice.geeksforgeeks.org/)
-- 📂 **Structure:** Organized by topic for focused revision and reference
+- 📂 **Structure:** Organized by topic for focused revision and reference:
 
 ---
 
