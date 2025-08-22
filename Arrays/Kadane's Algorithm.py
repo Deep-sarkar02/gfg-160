@@ -4,7 +4,7 @@ Note : A subarray is a continuous part of an array.
 
 Examples:
 
-Input: arr[] = [2, 3, -8, 7, -1, 2, 3]
+Input: arr[ = [2, 3, -8, 7, -1, 2, 3]
 Output: 11
 Explanation: The subarray [7, -1, 2, 3] has the largest sum 11.
 Input: arr[] = [-2, -4]
