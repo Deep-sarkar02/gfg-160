@@ -1,4 +1,4 @@
-Given the root of a binary tree. Check whether it is a BST or not.
+Given the root of a binary tree. Check whether it is a BST or not
 Note: We are considering that BSTs can not contain duplicate Nodes.
 A BST is defined as follows:
 
