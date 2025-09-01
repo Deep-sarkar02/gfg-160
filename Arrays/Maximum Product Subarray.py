@@ -4,7 +4,7 @@ Note: It is guaranteed that the answer fits in a 32-bit integer.
 
 Examples
 
-Input: arr[] = [-2, 6, -3, -10, 0, 2]
+Input: arr[] = [-2, 6, -3, -10, 0, 2].
 Output: 180
 Explanation: The subarray with maximum product is [6, -3, -10] with product = 6 * (-3) * (-10) = 180.
 Input: arr[] = [-1, -3, -10, 0, 6]
