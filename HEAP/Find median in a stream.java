@@ -1,4 +1,4 @@
-Given a data strem arr[] where integers are read sequentially, the task is to determine the median of the elements encountered so far after each new integer is read.
+A data strem arr[] where integers are read sequentially, the task is to determine the median of the elements encountered so far after each new integer is read.
 
 There are two cases for median on the basis of data set size.
 
