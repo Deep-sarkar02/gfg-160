@@ -1,5 +1,5 @@
 
-# GeeksforGeeks 160 Days Coding Challenge:-
+# GeeksforGeeks 160 Days Coding Challenge
 
 Welcome to my GitHub repository for the **GeeksforGeeks 160 Days Coding Challenge**!  
 This challenge is designed to strengthen data structures and algorithms (DSA) through consistent daily problem-solving, with a focus on mastering key topics required for coding interviews and competitive programming.
